@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#00ACC1">
-    <img src="https://github.com/CarlosHenrique2/Desafio-de-c-digo-Garantia-estendida/public/assets/Garantia.JPG" />
+    <img src="https://github.com/CarlosHenrique2/Desafio-de-c-digo-Garantia-estendida/blob/main/public/assets/Garantia.JPG" />
     <br>
     Projeto Garantia Produtos
 </h1>
