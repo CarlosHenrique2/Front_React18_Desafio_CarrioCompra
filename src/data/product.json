@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "name": "XX99 MARK II",
+      "price": 10.99,
+      "img": "/assets/phone.png"
+    },
+    {
+      "id": 2,
+      "name": "XX59",
+      "price": 1199,
+      "img": "/assets/02.svg"
+    },
+    {
+      "id": 3,
+      "name": "ZX9 SPEAKER",
+      "price": 1.05,
+      "img": "/assets/03.svg"
+    }
+]
