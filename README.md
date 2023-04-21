@@ -8,7 +8,7 @@
 
 ```bash
 # Para clonar
-$ git clone https://github.com/CarlosHenrique2/Project-Final-Otterwise-Front.git
+$ git clone https://github.com/CarlosHenrique2/Desafio-de-c-digo-Garantia-estendida.git
 
 # Para instalar todas as dependencias do projeto
 $ yarn install
